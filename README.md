@@ -1,2 +1,2 @@
-# data_wrangling
-Most used scripts and tasls
+## Datawrangling
+Most used scripts and tasks
