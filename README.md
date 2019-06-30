@@ -1,2 +1,3 @@
-## Datawrangling
-Most used scripts and tasks
+## Data Tasks : Manipulating, Converting, Observing, Pre-Processing, Creating ...
+
+This repo contains a series of notebooks explaining basic foundations of Data pre-processing activities, a bit of theory along with examples, the intent of this material is to be utilized in the upcoming internal Data Programming workshops which purpose is to give colleagues a little taste of what it takes to work with traditional ML Techniques in Python.
