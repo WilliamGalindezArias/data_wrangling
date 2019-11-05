@@ -1,0 +1,16 @@
+"'intent':'order_drink'"
+jedno pivo prosim
+Dáte si ješte jedno pivo?
+Chtěl bych dolít prosím!
+Chtěl bych láhev vína prosím.
+Mohl bych dostat sklenku perlivé vody?
+Mohl bych dostat další sklenici prosím?
+Mohu se podívat na vinný lístek prosím?
+Mohu vám přinést něco k pití?
+Dám si kávu
+Mám rád kozel
+Chtěl bych kávu.
+ja si Dám Pilsner Urquell
+pivo prosím
+Mám rád kávu
+Mám rád kolu

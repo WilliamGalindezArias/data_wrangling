@@ -1,0 +1,77 @@
+[
+    {
+        "intent": "order_drink",
+        "text": "jedno [pivo] (drink) prosim",
+        "index": 0
+    },
+    {
+        "intent": "order_drink",
+        "text": "Dáte si ješte jedno [pivo] (drink)?",
+        "index": 1
+    },
+    {
+        "intent": "order_drink",
+        "text": "Chtěl bych dolít prosím!",
+        "index": 2
+    },
+    {
+        "intent": "order_drink",
+        "text": "Chtěl bych láhev vína prosím.",
+        "index": 3
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mohl bych dostat sklenku perlivé vody?",
+        "index": 4
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mohl bych dostat další sklenici prosím?",
+        "index": 5
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mohu se podívat na vinný lístek prosím?",
+        "index": 6
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mohu vám přinést něco k pití?",
+        "index": 7
+    },
+    {
+        "intent": "order_drink",
+        "text": "Dám si [kávu] (drink)",
+        "index": 8
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mám rád [kozel] (drink)",
+        "index": 9
+    },
+    {
+        "intent": "order_drink",
+        "text": "Chtěl bych [kávu] (drink).",
+        "index": 10
+    },
+    {
+        "intent": "order_drink",
+        "text": "ja si Dám Pilsner Urquell",
+        "index": 11
+    },
+    {
+        "intent": "order_drink",
+        "text": "[pivo] (drink) prosím",
+        "index": 12
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mám rád [kávu] (drink)",
+        "index": 13
+    },
+    {
+        "intent": "order_drink",
+        "text": "Mám rád [kolu] (drink)",
+        "index": 14
+    }
+]
